@@ -1,0 +1,17 @@
+{
+  "name": "rt",
+  "displayName": "rt",
+  "expo": {
+    "sdkVersion": "32.0.0",
+    "name": "rt",
+    "slug": "rt",
+    "version": "0.0.1",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": ""
+  },
+  "slug": "rt",
+  "icon": "src/images/app-icon.jpg"
+}
